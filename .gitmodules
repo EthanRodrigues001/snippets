@@ -1,3 +1,6 @@
 [submodule "appwrite-auth"]
 	path = appwrite-auth
 	url = https://github.com/EthanRodrigues001/appwrite-auth
+[submodule "appwrite-bucket"]
+	path = appwrite-bucket
+	url = https://github.com/EthanRodrigues001/appwrite-bucket
